@@ -34,6 +34,12 @@ navigation:
 - text: EBA Principles
   url: eba_principles/
   internal: true
+- text: EBA Outcomes
+  url: eba_outcomes/
+  internal: true
+- text: EBA and the New Solution Domains
+  url: eba_eba_newdomains/
+  internal: true
   
 repos:
 - name: EBA Guide

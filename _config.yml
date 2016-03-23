@@ -38,7 +38,25 @@ navigation:
   url: eba_outcomes/
   internal: true
 - text: EBA and the New Solution Domains
-  url: eba_eba_newdomains/
+  url: eba_newdomains/
+  internal: true
+- text: The EBA Context
+  url: eba_context/
+  internal: true
+ - text: The EBA Framework Overview
+  url: eba_frmwk_overview/
+  internal: true 
+ - text: The EBA Framework
+  url: eba_framework/
+  internal: true 
+- text: EBA for Business Results
+  url: eba_bus_results/
+  internal: true
+- text: The EBA Alignment Process
+  url: eba_align_process/
+  internal: true
+- text: The EBA Refresh Cycle
+  url: eba_refresh/
   internal: true
   
 repos:

@@ -6,6 +6,7 @@ The other big question around the value of the EBA can be demonstrated by what w
 
 <img src="{{site.baseurl}}/images/EBA_AlignmentProcess.PNG" alt="EBA Alignment Process">
 
+
 ##Steps and Purpose                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 ###Business Inputs and Outcomes

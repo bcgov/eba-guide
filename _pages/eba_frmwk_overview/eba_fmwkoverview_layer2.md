@@ -2,7 +2,7 @@
 title: Layer 2
 ---
 
-## Defining the Business Environment (Green)
+### Defining the Business Environment (Green)
 
 This layer translates the strategic intent of government into a set of future state service needs. First, based on an aggregation of government strategies, the document establishes a set of service themes that have been identified as critical path initiatives for the next five years. It is important to note that this list is based on themes and not individual projects. The reason for this is that, from the analysis of the strategy documents, it became apparent that many sectors have similar underlying business needs that can best be resolved by tackling the issues from an enterprise perspective.
 

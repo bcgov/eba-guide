@@ -4,7 +4,7 @@ title: Domain & Impact on Service Transformation
 
 ###Service Design                        
 
-Service design is the activity of planning and organizing people, infrastructure, communication and material components of a service in order to improve its quality and the interaction between service provider and in our case citizens [https://www.service-design-network.org/manifesto]. Government has made a concerted effort to incorporate service design principles, especially those related to citizen engagement, into our initiatives. *The Service Design Guide* is the blueprint for this domain. The impact of service design on transformation is the creation of services truly for citizens by citizens as opposed to those government think they want and most often deliver.
+Service design is the activity of planning and organizing people, infrastructure, communication and material components of a service to improve its quality and the interaction between service provider and in our case citizens. (For further reading see, [*What is Service Design?* Service Design Network Manifesto)](https://www.service-design-network.org/manifesto). Government has made a concerted effort to incorporate service design principles, especially those related to citizen engagement, into our initiatives. *The Service Design Guide* is the blueprint for this domain. The impact of service design on transformation is the creation of services truly for citizens by citizens as opposed to those government think they want and most often deliver.
                                                                                                                                                                                                                                                                                                                                               
 ###Enterprise Business Architecture     
 
@@ -14,8 +14,8 @@ EBA is a description of the structure and interaction between the business strat
 
 Collaborative Application development changes the way government has traditionally done application development in two ways:
 
-	* First, it puts the needs of the citizen front and centre by including them throughout the creation process, giving them multiple opportunities to provide feedback on the product to be delivered 
-	* Second, it looks to collaboration amongst developers in the form of self-organizing teams to plan, debate, and produce solutions
+* First, it puts the needs of the citizen front and centre by including them throughout the creation process, giving them multiple opportunities to provide feedback on the product to be delivered 
+* Second, it looks to collaboration amongst developers in the form of self-organizing teams to plan, debate, and produce solutions
 
 The BC Developers’ Exchange is government’s first attempt at building out this capacity. The impact of collaborative application design on service transformation will be a far better product both in terms of meeting the needs of citizens and bringing a more agile approach to application development                                                                                                                                                                                                                       
 

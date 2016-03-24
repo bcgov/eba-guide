@@ -1,13 +1,14 @@
 ---
 title: The EBA Alignment Process
 ---
+------------------------------------------------------------------
 
 The other big question around the value of the EBA can be demonstrated by what we are calling the EBA alignment process. This process is designed to take an initiative/project and “score” it vis-à-vis its alignment to the various domains of the EBA. For the purpose of this example, scoring takes the form of lighting up boxes on the framework itself. The more boxes that are lit up the greater the alignment. In the future, there will be an EBA alignment checklist that stakeholders can use to assess their initiative/project aligns with corporate direction.
 
 <img src="{{site.baseurl}}/images/EBA_AlignmentProcess.PNG" alt="EBA Alignment Process">
 
 
-##Steps and Purpose                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+##Steps and Purpose:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 
 ###Business Inputs and Outcomes
 
@@ -54,7 +55,7 @@ The alignment exercise at this layer is to evaluate an initiative’s potential 
 
 ###Recommendations
 
-The final step in the process is to provide the initiative with an assessment of its alignment with the EBA and recommendations for next steps. First, it gives an overall assessment of the alignment which highlights areas where it is strong and areas where there are gaps and opportunities for improvement. Next, the recommendations focus in on the specific principles that the initiative “lit up” during the course of the alignment exercise and provides further direction on how to incorporate them into the initiative and the value of doing so. Finally, it provides the initiative with a list of specific gaps where it is either 
+The final step in the process is to provide the initiative with an assessment of its alignment with the EBA and recommendations for next steps. First, it gives an overall assessment of the alignment which highlights areas where it is strong and areas where there are gaps and opportunities for improvement. Next, the recommendations focus in on the specific principles that the initiative “lit up” during the course of the alignment exercise and provides further direction on how to incorporate them into the initiative and the value of doing so. Finally, it provides the initiative with a list of specific gaps where it is either: 
 
-* a) in contradiction to the stated corporate direction in the EBA which would warrant more discussion with the service owner, or 
-* b) apparent that the solution is close to being in alignment with the EBA principles and with some assistance from ASPB can strengthen it alignment score  
+* In contradiction to the stated corporate direction in the EBA which would warrant more discussion with the service owner, or 
+* Apparent that the solution is close to being in alignment with the EBA principles and with some assistance from ASPB can strengthen it alignment score  

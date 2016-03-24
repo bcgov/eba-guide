@@ -1,7 +1,7 @@
 ---
 title: EBA Principles
 ---
-
+-----------------------------------------------------------------
 In creating this document, the Architecture, Standards, and Planning Branch (ASPB) adopted a set of principles to guide how the document was structured and to determine the themes that influence the content at each layer. The principles used to build the EBA are:
 
 1.  The EBA framework is about alignment and enablement. It is designed to produce a record of key business and technology decisions that government has made in order to create a cohesive corporate direction and to support the activities of service transformation

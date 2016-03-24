@@ -1,7 +1,7 @@
 ---
 title: EBA Outcomes
 ---
-
+-----------------------------------------------------------------
 These outcomes are designed to provide a clear articulation of how the EBA will help service owners create and deliver services more effectively. While the tangible outcomes of leveraging the EBA (e.g. money saved, less time to implement, decreased risk, and reduced duplication) will be realized at the initiative level, including EBA specific outcomes creates a reference point to evaluate the long-term value of the document. The outcomes expected from the EBA are:
 
 1.  *Increased awareness of the government’s strategic intent through the creation of a sanctioned record of business and technology principles*: The EBA content will lead to an endorsed set of key business and technology decisions that service owners can use when making transformation decisions. It should provide insight into the types of services and technology that leaders in government have endorsed and will look to when assessing ministry initiatives                    

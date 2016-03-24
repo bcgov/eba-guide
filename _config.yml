@@ -43,36 +43,36 @@ navigation:
   internal: true
   children: 
   - text: Domain & Impact on Service Transformation
-    url: eba_domain_impact
+    url: eba_domain_impact/
     internal: true
 - text: The EBA Context
   url: eba_context/
   internal: true
   children:
-  - text: Input: Strategic Intent & Business Priorities
-    url: eba_context_input
+  - text: Input Strategic Intent & Business Priorities
+    url: eba_context_input/
     internal: true
-  - text: Output: Technology Enablers
-    url: eba_context_output
+  - text: Output Technology Enablers
+    url: eba_context_output/
     internal: true
-  - text: Guidance: Business Enablers
-    url: eba_context_guidance
+  - text: Guidance Business Enablers
+    url: eba_context_guidance/
     children: true
 - text: Overview of the EBA Framework
   url: eba_frmwk_overview/
   internal: true
   children: 
   - text: Layer 1
-    url: eba_fmwkoverview_layer1.md
+    url: eba_fmwkoverview_layer1/
     internal: true
   - text: Layer 2
-    url: eba_fmwkoverview_layer2.md
+    url: eba_fmwkoverview_layer2/
     internal: true
   - text: Layer 3
-    url: eba_fmwkoverview_layer3.md
+    url: eba_fmwkoverview_layer3/
     internal: true
-    - text: Layer 4
-    url: eba_fmwkoverview_layer4.md
+  - text: Layer 4
+    url: eba_fmwkoverview_layer4/
     internal: true
 - text: Exploring the EBA Framework
   url: eba_framework/
@@ -82,12 +82,12 @@ navigation:
   internal: true
   children: 
   - text: EBA & the Initiative Lifecycle
-    url: eba_busresults_lifecycle
+    url: eba_busresults_lifecycle/
     internal: true
 - text: The EBA Alignment Process
   url: eba_align_process/
 - text: The EBA Refreshment Cycle
-  url: eba_refresh
+  url: eba_refresh/
   internal: true
   
 repos:

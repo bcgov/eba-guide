@@ -1,5 +1,5 @@
 ---
-title: Output: Technology Enablers
+title: Output Technology Enablers
 ---
 
 <img src="{{site.baseurl}}/images/ICON_CircleMap.png" alt="Circle Map">

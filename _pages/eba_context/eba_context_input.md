@@ -1,5 +1,5 @@
 ---
-title: Input: Strategic Intent & Business Priorities
+title: Input Strategic Intent & Business Priorities
 ---  
 <img src="{{site.baseurl}}/images/EBA_IO_BigPicture.png" alt="EBA Big Picture">
  

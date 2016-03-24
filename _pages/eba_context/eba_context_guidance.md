@@ -1,5 +1,5 @@
 ---
-title: Guidance: Business Enablers
+title: Guidance Business Enablers
 ---
 
 <img src="{{site.baseurl}}/images/ICON_DesignPatterns.png" alt="Design Patterns">

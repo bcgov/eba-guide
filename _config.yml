@@ -21,7 +21,6 @@ author:
   name: bcgov
   url: https://bcgov.org
 
-
 # To expand all navigation bar entries by default, set this property to true:
 expand_nav: true
 
@@ -57,7 +56,7 @@ navigation:
     internal: true
   - text: Guidance Business Enablers
     url: eba_context_guidance/
-    children: true
+    internal: true
 - text: Overview of the EBA Framework
   url: eba_frmwk_overview/
   internal: true
@@ -86,6 +85,7 @@ navigation:
     internal: true
 - text: The EBA Alignment Process
   url: eba_align_process/
+  internal: true
 - text: The EBA Refreshment Cycle
   url: eba_refresh/
   internal: true

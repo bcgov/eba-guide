@@ -8,3 +8,4 @@ This layer is where we fuse the traditional domains from enterprise architecture
 
 *Note: While this layer is framed by technology enablers, its principles remain focused on service design and delivery. While the technology is important, it is critical that the EBA framework demonstrate to service owners’ how using a particular technology will help them meet their service goals and objectives. An example would be the intersection between the cloud pillar and data architecture. While cloud technology and data integration are important to understand when designing a service, the rationale for leveraging this technology is all about the portability of citizen data when and where they need it and so they don’t have to keep entering their information for each transaction.*
 
+<img src="{{site.baseurl}}/images/level3.png" alt="Level 3">

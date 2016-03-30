@@ -4,7 +4,7 @@ title: EBA & the Initiative Lifecycle
 
 The initiative lifecycle is a basic framework that highlights the steps a new service will take starting from the initial concept or need and finishing when the service “hits the market” and is available for use.
 
-<img src="{{site.baseurl}}/images/InitiationLoop.PNG" alt="Initiative Lifecycle">
+<img src="{{site.baseurl}}/images/InitiationLoop.png" alt="Initiative Lifecycle">
 
 To answer the question “when to use the EBA?” the case can be made to use it throughout the lifecycle. At all points along the journey, it will help answer questions such as:
 
@@ -31,9 +31,9 @@ The following lists the ways in which the framework provides guidance and valida
 
 **IMIT Capital Planning** 
 
-* Rationalizing investment decisions of solution                          
-* Aligning with corporate business and funding priorities                  
-* Funding approvals to proceed                                             
+* Rationalizing investment decisions of solution
+* Aligning with corporate business and funding priorities
+* Funding approvals to proceed
 
 **RF”X”** 
 

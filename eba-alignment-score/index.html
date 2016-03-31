@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>EBA Alignment Score</title>
+        <style media="screen">
+            .score-card-outer {
+                width: 550px;
+                position: fixed;
+                right: 40px;
+                top: 40px;
+                background: #004b8d;
+                border: 1px black solid;
+                padding: 20px;
+            }
+
+                .score-card-outer .score-card {
+                    border: 1px black solid;
+                    padding: 20px;
+                    background: white;
+                    text-align: center;
+                    font-family: "Arial"
+                }
+
+                    .score-card-outer .score-card .subtle {
+                        color: #AAA;
+                    }
+
+                    .score-card-outer .score-card #score {
+                        font-size: 7em;
+                        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+                    }
+
+                        .score-card-outer .score-card #score.red {
+                            color: #F00;
+                        }
+
+                        .score-card-outer .score-card #score.yellow {
+                            color: #FF0;
+                        }
+
+                        .score-card-outer .score-card #score.green {
+                            color: #0F0;
+                        }
+        </style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.2.61/jspdf.debug.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
+        <script>
+
+        // Must be onload, not $.ready to allow SVG to properly load.
+        window.onload = function () {
+            var score = $("#score");
+            function updateScore(change) {
+                var scoreVal = parseInt(score.text()) + change;
+                score.text(scoreVal);
+
+                var className = "";
+                if (scoreVal < 5) {
+                    className = "red";
+                } else if (scoreVal < 10) {
+                    className = "yellow";
+                } else {
+                    className = "green";
+                }
+
+                score.removeClass().addClass(className);
+            }
+
+            // .st24 - Business Architecture
+            // .st44 - Architecture Foundation
+            // .st57 - Corporate Enablers
+            // .st59 - Corporate Enablers
+            var g = Snap("#svg");
+            var textBoxes = g.selectAll(".st24, .st44, .st57 > .st25, .st59");
+
+            // Iterate SVG nodes and add click handlers.
+            textBoxes.forEach(function(textbox) {
+                textbox.click(function() {
+                    if (textbox.attr().class.indexOf("selected") > 0) {
+                        updateScore(-1);
+                        textbox.removeClass("selected");
+                    } else {
+                        updateScore(1);
+                        textbox.addClass("selected");
+                    }
+                });
+            });
+
+            $("#save").click(function () {
+                $(".hide").hide();
+
+                html2canvas($(".score-card-outer"), {
+                    background:"#fff",
+                    onrendered: function(canvas) {
+                        $(".hide").show();
+
+                        // Convert page fragment to JPEG.
+                        var data = canvas.toDataURL("image/jpeg", 1.0);
+
+                        // Letter size paper dimensions in millimeters.
+                        var letterWidth = 279.4;
+                        var letterHeight = 215.9;
+                        var margin = 40;
+
+                        // Calculate maximum display size.
+                        var ratio = Math.min((letterWidth - (margin * 2)) / canvas.width, (letterHeight - (margin * 2)) / canvas.height);
+                        var outputWidth = canvas.width * ratio;
+                        var outputHeight = canvas.height * ratio;
+
+                        // Output image as PDF.
+                        var doc = new jsPDF("landscape", "mm", "letter");
+                        doc.addImage(data, "JPEG", (letterWidth - outputWidth) / 2, (letterHeight - outputHeight) / 2, outputWidth, outputHeight);
+                        doc.output("dataurlnewwindow");
+                    }
+                });
+            });
+        };
+        </script>
+    </head>
+    <body>
+
+        <object id="svg" data="eba.svg" type="image/svg+xml"></object>
+
+        <div class="score-card-outer">
+            <div class="score-card">
+                <div>
+                    <span id="score">0</span>
+                    <span class="subtle"> / 35</span>
+                </div>
+                <div class="subtle">
+                <div>EBA Alignment Score</div>
+                <div class="hide">
+                    <div>
+                        <button id="save">Save Your Score</button>
+                    </div>
+                    <hr />
+                    <div>Click the text in the Business Architecture, Architectural Foundation, and Corporate Enablers sections to calculate your EBA Alignment Score.</div>
+                    <div>
+                        <img src="EBA-scoring-instructions.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>

@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: Enterprise Business Architecture Guide
+name: BC Agile Guides Template
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -18,15 +18,20 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: BC Government
-  url: https://bcgov.org
+  name: Province of British Columbia
+  url: https://www.gov.bc.ca
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/bc_logo_transparent.png
+logoalt: BC logo
+
+repo_url: https://github.com/bcgov/eba-guide
 
 # To expand all navigation bar entries by default, set this property to true:
 expand_nav: true
 
 # Navigation
 # List links that should appear in the site sidebar here
-
 navigation:
 
 - text: Introduction
@@ -40,7 +45,7 @@ navigation:
 - text: EBA and the New Solution Domains
   url: eba_newdomains/
   internal: true
-  children: 
+  children:
   - text: Domain & Impact on Service Transformation
     url: eba_domain_impact/
     internal: true
@@ -60,7 +65,7 @@ navigation:
 - text: Overview of the EBA Framework
   url: eba_frmwk_overview/
   internal: true
-  children: 
+  children:
   - text: Layer 1
     url: eba_fmwkoverview_layer1/
     internal: true
@@ -79,7 +84,7 @@ navigation:
 - text: Using the EBA for Business Results
   url: eba_bus_results/
   internal: true
-  children: 
+  children:
   - text: EBA & the Initiative Lifecycle
     url: eba_busresults_lifecycle/
     internal: true
@@ -89,14 +94,15 @@ navigation:
 - text: The EBA Refreshment Cycle
   url: eba_refresh/
   internal: true
-  
+
 repos:
 - name: EBA Guide
   description: Main repository
+  url: https://github.com/bcgov/eba-guide
 
 
 back_link:
-  url: "https://github.com/bcgov"
+  url: "https://guides.pathfinder.bcgov"
   text: Read more BC Government Guides
 
 google_analytics_ua: UA-48605964-19
@@ -110,7 +116,7 @@ defaults:
 - scope:
     path: ""
   values:
-    layout: "guides_style_18f_default"
+    layout: "bc_default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:

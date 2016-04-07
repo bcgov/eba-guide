@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: BC Agile Guides Template
+name: Enterprise Business Architecture Guide
 exclude:
 - CONTRIBUTING.md
 - Gemfile

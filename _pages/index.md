@@ -7,7 +7,7 @@ title: Introduction
 
 In 2015-16, The Deputy Minister’s Council for Transformation and Technology (DMCTT) asked the Government Chief Information Officer (GCIO) to produce a framework that lays a foundation for digital government. 
 
-Based on feedback, a deeper understanding of goals, and updated enterprise strategy documents, this evolution, the Enterprise Business Architecture 2017 - Digital Government Blueprint for BC, focusses on:
+Based on feedback, a deeper understanding of goals, and updated enterprise strategy documents, this evolution, the *Enterprise Business Architecture 2017 - Digital Government Blueprint for BC*, focusses on:
 
 * Delivering a more easily-consumable framework
 * Identifying enablers for digital government

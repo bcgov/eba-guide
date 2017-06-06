@@ -11,10 +11,12 @@ Based on feedback, a deeper understanding of goals, and updated enterprise strat
 
 * Delivering a more easily-consumable framework
 * Identifying enablers for digital government
-* Communicating an EBA engagement approach that strengthens alignment to strategic goals, provides guidance for success, and gathers feedback on itself.
+* Communicating an EBA engagement approach that strengthens alignment to strategic goals, providing guidance for success, and 
+* gathering feedback on the framework and the engagement approach.
 
 “The Blueprint,” as it is known, and EBA Engagement Approach will provide benefits to government by:
+
 * Guiding the evolution of digital enablers 
 * Facilitating collaboration across service areas
 * Assisting in the prioritization of service initiatives, and 
-* Identifying opportunities to leverage corporate enablers  
+* Identifying opportunities to leverage corporate enablers.

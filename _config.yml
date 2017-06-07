@@ -36,6 +36,7 @@ navigation:
 
 - text: Introduction
   internal: true
+- text: Strategic Resources  
 - text: EBA Principles
   url: eba_principles/
   internal: true

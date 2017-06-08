@@ -37,7 +37,7 @@ navigation:
 - text: Introduction
   internal: true
 - text: Alignment Model
-  url: eba_AlignmentModel/
+  url: eba_alignmentmodel/
   internal: true
 - text: EBA Outcomes
   url: eba_outcomes/

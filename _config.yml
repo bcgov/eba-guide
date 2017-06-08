@@ -36,6 +36,9 @@ navigation:
 
 - text: Introduction
   internal: true
+  - text: blah blah World
+  url: eba_outcomes
+  internal: true
 - text: Alignment Model
   url: eba_alignmentmodel/
   internal: true

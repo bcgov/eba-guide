@@ -6,7 +6,8 @@ The Blueprint seeks to address User Stories like the following:
 
 INCREASE UTILIZATION OF CORPORATE ENABLERS 
 As a service owner, I want to understand the capabilities of government’s corporate enablers and how they support my initiative, so that I can use them to reduce the cost of my solution, expedite it’s time to delivery, and bring consistency to my audience.
-# Current feedback: It is too expensive (in time, or resources, or financial investment) today for me to consume “corporate enablers.”
+<!-- Current feedback: It is too expensive (in time, or resources, or financial investment) today for me to consume “corporate enablers.”
+-->
 
 INCREASE MEASUREMENT OF OUTCOMES
 As a service owner, I want the Blueprint and EBA Approach to provide me with a benefits realization framework for measuring and monitoring the performance of my service against its defined outcomes, so that I can continually evaluate its operations, identify opportunities to realign services / products based on changing stakeholder needs, and provide empirical feedback to my executive on successes and challenges.

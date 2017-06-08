@@ -2,12 +2,21 @@
 title: EBA Outcomes
 ---
 -----------------------------------------------------------------
-These outcomes are designed to provide a clear articulation of how the EBA will help service owners create and deliver services more effectively. While the tangible outcomes of leveraging the EBA (e.g. money saved, less time to implement, decreased risk, and reduced duplication) will be realized at the initiative level, including EBA specific outcomes creates a reference point to evaluate the long-term value of the document. The outcomes expected from the EBA are:
+The Blueprint seeks to address User Stories like the following:
 
-1.  *Increased awareness of the government’s strategic intent through the creation of a sanctioned record of business and technology principles*: The EBA content will lead to an endorsed set of key business and technology decisions that service owners can use when making transformation decisions. It should provide insight into the types of services and technology that leaders in government have endorsed and will look to when assessing ministry initiatives                    
-2.  *Improved consciousness of the interdependencies between the needs of citizens, the strategies of government, and the capabilities of technology*: The EBA will show a clear relationship between the needs, expectations, and products required to support the transformation of government services. The document’s three perspectives are not silos, but instead, collaborative and equally critical participants in shaping government’s “digital ecosystem”
-3.  *Stronger alignment between government initiatives and desired outcomes*: The document will allow service owners to assess the alignment of their initiatives on two levels: a) to the stated business and technology objectives of government, and b) to the needs and expectations of citizens and the services they receive                                                                                            
-4.  *Reduced uncertainty and risk to the overall decision making process across government*: The EBA will reduce risk for service owners by giving them an endorsed government direction to follow when designing and building their solutions. Uncertainty is removed by having many of the enterprise level decisions and programs in place and readily consumable by their programs                                                     
-5.  *A higher return on investment from the technology we employ as part of service transformation*: The document will provide a clear direction on the types of technology enablers service owners should be investing in in to get the best return on our transformation investments. Service owners should reference the EBA when evaluating technology so that the choices made are in-line with government’s technology future-state roadmaps
-6.  *Improved understanding of the impact of disruptive technology on the future of government services*: The document will demonstrate the impact of disruptive technologies such as mobility, cloud, and open data on service delivery. Service owners should come away with a greater understanding of the influence of disruptive technologies on their current and future decisions.
+INCREASE UTILIZATION OF CORPORATE ENABLERS 
+As a service owner, I want to understand the capabilities of government’s corporate enablers and how they support my initiative, so that I can use them to reduce the cost of my solution, expedite it’s time to delivery, and bring consistency to my audience.
+# Current feedback: It is too expensive (in time, or resources, or financial investment) today for me to consume “corporate enablers.”
+
+INCREASE MEASUREMENT OF OUTCOMES
+As a service owner, I want the Blueprint and EBA Approach to provide me with a benefits realization framework for measuring and monitoring the performance of my service against its defined outcomes, so that I can continually evaluate its operations, identify opportunities to realign services / products based on changing stakeholder needs, and provide empirical feedback to my executive on successes and challenges.
+
+INCREASED ALIGNMENT BETWEEN SERVICE DECISIONS MADE AND DIGITAL GOVERNMENT STRATEGY
+As a service owner, I want the Blueprint to provide clear direction on the design of digital services that align with government strategy, so that I know my initiative aligns with government priorities while the work I do reduces technical diversity and complexity.
+
+INCREASE AWARENESS OF CITIZENS
+As a service owner, I want the Blueprint to provide insight into the relationship between citizen, government, and complexity and the impact to all three on the decisions I make, so that when I build a service the citizen receives an exemplary, consistent experience, government achieves maximum value for its investment, and the service deployed meets user needs consistent with the goals of digital government.
+
+INCREASE EVIDENCE-BASED DECISION MAKING ACROSS ALL PHASES OF AN INITIATIVE 
+As a service owner, I want empirical evidence to defend every service investment decision so I am certain the optimal investment portfolio serves citizens. 
 

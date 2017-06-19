@@ -45,6 +45,9 @@ navigation:
 - text: EBA Outcomes
   url: eba_outcomes/
   internal: true
+- text: Alignment Framework
+  url: EBA_TalkToTheSections/
+  internal: true
 - text: EBA and the New Solution Domains
   url: eba_newdomains/
   internal: true

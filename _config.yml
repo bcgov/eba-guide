@@ -36,9 +36,6 @@ navigation:
 
 - text: Introduction
   internal: true
-- text: blah blah World
-  url: eba_outcomes
-  internal: true
 - text: Alignment Model
   url: eba_alignmentmodel
   internal: true
@@ -54,6 +51,10 @@ navigation:
 - text: The Alignment Workshop
   url: eba_EngagementWorkshop/
   internal: true
+- text: The Alignment Assessment
+  url: eba_AlignmentAssessment/
+  internal: true
+- text: Supplementary Material
 - text: EBA and the New Solution Domains
   url: eba_newdomains/
   internal: true

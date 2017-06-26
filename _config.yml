@@ -40,7 +40,7 @@ navigation:
   url: eba_outcomes
   internal: true
 - text: Alignment Model
-  url: eba_alignmentmodel.md
+  url: eba_alignmentmodel
   internal: true
 - text: EBA Outcomes
   url: eba_outcomes/

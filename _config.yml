@@ -48,6 +48,12 @@ navigation:
 - text: Alignment Framework
   url: EBA_TalkToTheSections/
   internal: true
+- text: The Approach - Alignment Process
+  url: eba_AlignmentProcess/
+  internal: true
+- text: The Alignment Workshop
+  url: eba_EngagementWorkshop/
+  internal: true
 - text: EBA and the New Solution Domains
   url: eba_newdomains/
   internal: true

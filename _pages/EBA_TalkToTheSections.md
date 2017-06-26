@@ -1,7 +1,7 @@
 ---
 title: Digital Government for B.C.
 ---  
-<img src="{{site.baseurl}}/images/AlignmentFramework_Small.png" alt="Alignment Framework">
+<img src="{{site.baseurl}}/images/AlignmentFramework_small.png" alt="Alignment Framework">
  
 The purpose of each section in the blueprint is outlined here:
 

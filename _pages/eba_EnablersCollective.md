@@ -19,14 +19,14 @@ A significant focus of the Enterprise Business Architecture effort is to uncover
 This list suggests many kinds of "good work" that can - and should - be shared, across government.  Referring to these as "corporate enablers" at this time, they will provide consistency in approach, consistency in building, operating, and delivering services digitally. With a common set of resources - consulting, procedural, strategic, technical, workshop, - and a set of infrastructure that can be taken for granted, government will reduce risk, reduce cost, and increase consistency, while meeting the expectations of "digital" for citizens of British Columbia.
 
 This first iteration, an initial collection, of corporate enablers, has been gathered into the following categories, and will change:
-  * Financial - programs, procedures, workflows, services, and technical interfaces that facilitate financial-related interactions
-  * Identity - who am I and what can I do?
-  * Cloud & Hosting - services and platforms and software 
-  * Data & Information - being more open while ensuring privacy and security; more access to the right information
-  * Communication & Collaboration - enabling people to work together on a common objective
-  * Citizen & Business  - a collection of enablers with a distinct "outward focus"
-  * Device & Productivity - the right tools for the job
-  * Human Resources - a significant focus of "Where Ideas Work"
-  * Digital Implementation - the tools and technical bits that will specifically target MyGov and digital delivery to citizens
+  * Financial - programs, procedures, workflows, services, and technical interfaces that facilitate financial-related interactions  
+  * Identity - who am I and what can I do?  
+  * Cloud & Hosting - services and platforms and software  
+  * Data & Information - being more open while ensuring privacy and security; more access to the right information  
+  * Communication & Collaboration - enabling people to work together on a common objective  
+  * Citizen & Business  - a collection of enablers with a distinct "outward focus"  
+  * Device & Productivity - the right tools for the job  
+  * Human Resources - a significant focus of "Where Ideas Work"  
+  * Digital Implementation - the tools and technical bits that will specifically target MyGov and digital delivery to citizens  
 
 These categories will change as the concept of corporate enablers evolves.  Each is described in more detail in the following pages.

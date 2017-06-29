@@ -57,58 +57,73 @@ navigation:
 - text: Corporate Enablers
   url: eba_EnablersCollective/
   internal: true
-- text: A test enabler one
-  url: eba_EnablersCollective/eba_Enablers1/
-  internal: true
 - text: Financial
   url: eba_Enablers_Financial
   internal: true
 - text: Communication and Collaboration
   url: eba_Enablers_CommunicationCollaboration
   internal: true
-- text: EBA and the New Solution Domains
-  url: eba_newdomains/
+- text: Citizen and Business
+  url: eba_Enablers_CitizenBusiness
   internal: true
-  children:
-  - text: Domain & Impact on Service Transformation
-    url: eba_domain_impact/
-    internal: true
-- text: The EBA Context
-  url: eba_context/
+- text: Human Resources
+  url: eba_Enablers_HR
   internal: true
-  children:
-  - text: Input Strategic Intent & Business Priorities
-    url: eba_context_input/
-    internal: true
-  - text: Output Technology Enablers
-    url: eba_context_output/
-    internal: true
+- text: Data & Information
+  url: eba_Enablers_Data
+  internal: true
+- text: Identity
+  url: eba_Enablers_Identity
+  internal: true
+- text: Cloud & Hosting  
+  url: eba_Enablers_Identity
+  internal: true
+- text: EBA and the New Solution Domains  
+  url: eba_Enablers_Identity
+  internal: true
+- text: Digital Implementation
+  url: eba_Enablers_Implementation
+  internal: true
+# children:
+# - text: Domain & Impact on Service Transformation
+#    url: eba_domain_impact/
+#    internal: true
+# - text: The EBA Context
+#  url: eba_context/
+#  internal: true
+#  children:
+#  - text: Input Strategic Intent & Business Priorities
+#    url: eba_context_input/
+#    internal: true
+#  - text: Output Technology Enablers
+#    url: eba_context_output/
+#    internal: true
   - text: Guidance Business Enablers
     url: eba_context_guidance/
     internal: true
-- text: Overview of the EBA Framework
-  url: eba_frmwk_overview/
-  internal: true
-  children:
-  - text: Layer 1
-    url: eba_fmwkoverview_layer1/
-    internal: true
-  - text: Layer 2
-    url: eba_fmwkoverview_layer2/
-    internal: true
-  - text: Layer 3
-    url: eba_fmwkoverview_layer3/
-    internal: true
-  - text: Layer 4
-    url: eba_fmwkoverview_layer4/
-    internal: true
-- text: Exploring the EBA Framework
-  url: eba_framework/
-  internal: true
-- text: Using the EBA for Business Results
-  url: eba_bus_results/
-  internal: true
-  children:
+#- text: Overview of the EBA Framework
+#  url: eba_frmwk_overview/
+#  internal: true
+# children:
+#  - text: Layer 1
+#    url: eba_fmwkoverview_layer1/
+#    internal: true
+#  - text: Layer 2
+#    url: eba_fmwkoverview_layer2/
+#    internal: true
+#  - text: Layer 3
+#    url: eba_fmwkoverview_layer3/
+#    internal: true
+#  - text: Layer 4
+#    url: eba_fmwkoverview_layer4/
+#    internal: true
+#- text: Exploring the EBA Framework
+#  url: eba_framework/
+#  internal: true
+#- text: Using the EBA for Business Results
+#  url: eba_bus_results/
+#  internal: true
+#  children:
   - text: EBA & the Initiative Lifecycle
     url: eba_busresults_lifecycle/
     internal: true

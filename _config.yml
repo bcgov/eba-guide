@@ -55,8 +55,12 @@ navigation:
   url: eba_AlignmentAssessment
   internal: true
 - text: Corporate Enablers
-  url: eba_Enablers0
+  url: eba_EnablersCollective
   internal: true
+  children:
+    - text A test enabler one(1)
+    url: eba_Enablers1
+    internal: true
 - text: Financial
   url: eba_Enablers_Financial
   internal: true

@@ -58,7 +58,7 @@ navigation:
   url: eba_EnablersCollective/
   internal: true
   children:
-    - text A test enabler one(1)
+    - text: A test enabler one
     url: eba_Enablers1/
     internal: true
 - text: Financial

@@ -57,10 +57,9 @@ navigation:
 - text: Corporate Enablers
   url: eba_EnablersCollective/
   internal: true
-  children:
-    - text: A test enabler one
-    url: eba_Enablers1/
-    internal: true
+- text: A test enabler one
+  url: eba_EnablersCollective/eba_Enablers1/
+  internal: true
 - text: Financial
   url: eba_Enablers_Financial
   internal: true

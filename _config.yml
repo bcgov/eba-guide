@@ -28,7 +28,7 @@ logoalt: BC logo
 repo_url: https://github.com/bcgov/eba-guide
 
 # To expand all navigation bar entries by default, set this property to true:
-expand_nav: true
+expand_nav: false
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -40,28 +40,27 @@ navigation:
   url: eba_alignmentmodel
   internal: true
 - text: EBA Outcomes
-  url: eba_outcomes/
+  url: eba_outcomes
   internal: true
 - text: Alignment Framework
-  url: EBA_TalkToTheSections/
+  url: EBA_TalkToTheSections
   internal: true
 - text: The Approach - Alignment Process
-  url: eba_AlignmentProcess/
+  url: eba_AlignmentProcess
   internal: true
 - text: The Alignment Workshop
-  url: eba_EngagementWorkshop/
+  url: eba_EngagementWorkshop
   internal: true
 - text: The Alignment Assessment
-  url: eba_AlignmentAssessment/
+  url: eba_AlignmentAssessment
   internal: true
 - text: Corporate Enablers
   url: eba_Enablers0
   internal: true
-  children:
-  - text: Financial
+- text: Financial
   url: eba_Enablers_Financial
   internal: true
-  - text: Communication & Collaboration
+- text: Communication and Collaboration
   url: eba_Enablers_CommunicationCollaboration
   internal: true
 - text: EBA and the New Solution Domains

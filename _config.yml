@@ -61,8 +61,7 @@ navigation:
   - text: Financial
   url: eba_Enablers_Financial
   internal: true
-  - text: Communication and
-  - text: Collaboration
+  - text: Communication/Collaboration
   url: eba_Enablers_CommunicationCollaboration
   internal: true
   - text: Supplementary Material

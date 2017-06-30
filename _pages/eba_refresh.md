@@ -2,6 +2,10 @@
 title: The EBA Refresh Cycle
 ---
 
+Note: The processes described below are currently under review.  By offering this Enterprise Architecture guidance in the public domain, we are opening it to feedback and contribution from across government and beyond.  Our thought is that "approval" for an "Enterprise Architecture," or "Enterprise Business Architecture," program is secured, and then the documentation that describes the process of "enterprise architecture" becomes less that, and more pointers to good work and effective methodology that can be leveraged easily wherever it shows value.  "Enterprise architecture" will continue to be practised, but what is found here are the outcomes, the levers, the re-usable stuff that makes digital easier and easier as it evolves.  Much of government "digital" will live in Github - at the moment, it seems appropriate for this work to live in the same place.
+
+___
+
 The EBA must be a living document that reflects the rapid pace of change and innovation faced by government. This section outlines the bi-annual refresh cycle for the EBA and the groups responsible for endorsement throughout the process. 
 
 The decision was made to refresh the guide twice a year in order to:

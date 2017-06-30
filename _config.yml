@@ -98,9 +98,9 @@ navigation:
 #  - text: Output Technology Enablers
 #    url: eba_context_output/
 #    internal: true
-  - text: Guidance Business Enablers
-    url: eba_context_guidance/
-    internal: true
+#  - text: Guidance Business Enablers
+#    url: eba_context_guidance/
+#    internal: true
 # - text: Overview of the EBA Framework
 #  url: eba_frmwk_overview/
 #  internal: true
@@ -124,9 +124,9 @@ navigation:
 #  url: eba_bus_results/
 #  internal: true
 #  children:
-  - text: EBA & the Initiative Lifecycle
-    url: eba_busresults_lifecycle/
-    internal: true
+#  - text: EBA & the Initiative Lifecycle
+#    url: eba_busresults_lifecycle/
+#    internal: true
 - text: The EBA Alignment Process
   url: eba_align_process/
   internal: true

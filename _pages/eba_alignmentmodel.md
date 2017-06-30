@@ -1,5 +1,5 @@
 ---
-title: EBA Alignment Model
+title: EBA Alignment Framework
 ---
 
 -----------------------------------------------------------------

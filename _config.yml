@@ -76,10 +76,7 @@ navigation:
   url: eba_Enablers_Identity
   internal: true
 - text: Cloud & Hosting  
-  url: eba_Enablers_Identity
-  internal: true
-- text: EBA and the New Solution Domains  
-  url: eba_Enablers_Identity
+  url: eba_Enablers_Cloud
   internal: true
 - text: Digital Implementation
   url: eba_Enablers_Implementation
@@ -127,6 +124,9 @@ navigation:
 #  - text: EBA & the Initiative Lifecycle
 #    url: eba_busresults_lifecycle/
 #    internal: true
+- text: EBA and the New Solution Domains  
+  url: eba_newdomains
+  internal: true
 - text: The EBA Alignment Process
   url: eba_align_process/
   internal: true

@@ -127,9 +127,13 @@ navigation:
 - text: EBA and the New Solution Domains  
   url: eba_newdomains
   internal: true
-- text: The EBA Alignment Process
-  url: eba_align_process/
-  internal: true
+    children:
+    - text: Digital Influencers
+    url: eba_domain_impact
+    internal: true
+# - text: The EBA Alignment Process
+#  url: eba_align_process/
+#  internal: true
 - text: The EBA Refreshment Cycle
   url: eba_refresh/
   internal: true

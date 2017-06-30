@@ -36,13 +36,13 @@ navigation:
 
 - text: Introduction
   internal: true
-- text: Alignment Model
+- text: The Alignment Framework
   url: eba_alignmentmodel
   internal: true
 - text: EBA Outcomes
   url: eba_outcomes
   internal: true
-- text: Alignment Framework
+- text: The Framework explained
   url: EBA_TalkToTheSections
   internal: true
 - text: The Approach - Alignment Process

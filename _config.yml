@@ -101,7 +101,7 @@ navigation:
   - text: Guidance Business Enablers
     url: eba_context_guidance/
     internal: true
-#- text: Overview of the EBA Framework
+# - text: Overview of the EBA Framework
 #  url: eba_frmwk_overview/
 #  internal: true
 # children:
@@ -117,10 +117,10 @@ navigation:
 #  - text: Layer 4
 #    url: eba_fmwkoverview_layer4/
 #    internal: true
-#- text: Exploring the EBA Framework
+# - text: Exploring the EBA Framework
 #  url: eba_framework/
 #  internal: true
-#- text: Using the EBA for Business Results
+# - text: Using the EBA for Business Results
 #  url: eba_bus_results/
 #  internal: true
 #  children:
